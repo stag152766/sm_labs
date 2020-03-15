@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed1072e7-bef8-430c-b70b-b1cdc5d8637f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sm_labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sm_labs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/construction_site.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/others/samples.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper/samples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +34,57 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.range">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\GitHub\sm_labs\lab2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.workshop">
+    <configuration name="commercial_company" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sm_labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab1/commercial_company.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="construction_site" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sm_labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Documents\GitHub\sm_labs\lab5\construction_site.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sm_labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="samples (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sm_labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helper" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab5/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helper/samples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="samples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="workshop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sm_labs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/samples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2/workshop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,9 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.workshop" />
+        <item itemvalue="Python.samples (1)" />
+        <item itemvalue="Python.commercial_company" />
         <item itemvalue="Python.range" />
-        <item itemvalue="Python.run" />
-        <item itemvalue="Python.samples" />
+        <item itemvalue="Python.construction_site" />
       </list>
     </recent_temporary>
   </component>
@@ -123,46 +176,64 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="715" y="233" key="#xdebugger.evaluate/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584175003838" />
-    <state width="1323" height="466" key="DebuggerActiveHint" timestamp="1584179459203">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="942" height="328" key="DebuggerActiveHint" timestamp="1584271281935">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="942" height="328" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1584271281935" />
     <state width="1323" height="466" key="DebuggerActiveHint/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584179459203" />
-    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1584180098944">
+    <state x="478" y="141" key="FileChooserDialogImpl" timestamp="1584260462641">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="478" y="141" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1584260462641" />
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom" timestamp="1584284654064">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.bottom/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584180098944" />
-    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1584180098944">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584280471937" />
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584284654064" />
+    <state width="1899" height="284" key="GridCell.Tab.0.center" timestamp="1584284654064">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.center/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584180098944" />
-    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1584180098944">
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584280471937" />
+    <state width="1899" height="284" key="GridCell.Tab.0.center/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584284654064" />
+    <state width="1899" height="284" key="GridCell.Tab.0.left" timestamp="1584284654064">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.left/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584180098944" />
-    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1584180098944">
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584280471937" />
+    <state width="1899" height="284" key="GridCell.Tab.0.left/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584284654064" />
+    <state width="1899" height="284" key="GridCell.Tab.0.right" timestamp="1584284654064">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="285" key="GridCell.Tab.0.right/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584180098944" />
-    <state width="1899" height="352" key="GridCell.Tab.1.bottom" timestamp="1584179867587">
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584280471937" />
+    <state width="1899" height="284" key="GridCell.Tab.0.right/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584284654064" />
+    <state width="1899" height="365" key="GridCell.Tab.1.bottom" timestamp="1584284537887">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="352" key="GridCell.Tab.1.bottom/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584179867587" />
-    <state width="1899" height="352" key="GridCell.Tab.1.center" timestamp="1584179867587">
+    <state width="1345" height="236" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584280471937" />
+    <state width="1899" height="365" key="GridCell.Tab.1.bottom/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584284537887" />
+    <state width="1899" height="365" key="GridCell.Tab.1.center" timestamp="1584284537871">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="352" key="GridCell.Tab.1.center/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584179867587" />
-    <state width="1899" height="352" key="GridCell.Tab.1.left" timestamp="1584179867587">
+    <state width="1345" height="236" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1584280471937" />
+    <state width="1899" height="365" key="GridCell.Tab.1.center/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584284537871" />
+    <state width="1899" height="365" key="GridCell.Tab.1.left" timestamp="1584284537871">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="352" key="GridCell.Tab.1.left/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584179867587" />
-    <state width="1899" height="352" key="GridCell.Tab.1.right" timestamp="1584179867587">
+    <state width="1345" height="236" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1584280471937" />
+    <state width="1899" height="365" key="GridCell.Tab.1.left/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584284537871" />
+    <state width="1899" height="365" key="GridCell.Tab.1.right" timestamp="1584284537887">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="352" key="GridCell.Tab.1.right/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584179867587" />
-    <state x="463" y="170" key="SettingsEditor" timestamp="1584172022685">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1345" height="236" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1584280471937" />
+    <state width="1899" height="365" key="GridCell.Tab.1.right/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584284537887" />
+    <state x="202" y="29" key="SettingsEditor" timestamp="1584260481614">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="202" y="29" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1584260481614" />
     <state x="463" y="170" key="SettingsEditor/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584172022685" />
+    <state width="968" height="533" key="XDebugger.FullValuePopup" timestamp="1584284528545">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="968" height="533" key="XDebugger.FullValuePopup/1920.304.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1584284528545" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
