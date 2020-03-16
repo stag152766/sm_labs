@@ -45,3 +45,8 @@ def fill_row():
 # for i in range(1,100):
 #     Ti1 = sheet.cell(i,1).value
 #     print(Ti1)
+
+a = np.zeros((6, 100), int)
+
+a[1,1] = 1
+print(a)
