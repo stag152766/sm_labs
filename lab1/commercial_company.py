@@ -3,6 +3,7 @@ import numpy as np
 y=0
 yopt = 0
 xopt = 0
+
 hopt = 0
 
 profit = 15
