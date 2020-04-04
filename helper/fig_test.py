@@ -2,14 +2,13 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 x = [1,2,3]
-y = [1,2,3]
-c = np.zeros((2, 2), int)
-c[0, 0] = 1
-c[0, 1] = 2
-c[2, 0] = 4
-c[2, 1] = 5
-plt.axis[-2,2,-2,2]
-plt.plot(c[0], c[1])
+y = [[1,2,3],[4,5,6],[7,8,9]]
+plt.xlabel("X-axis")
+plt.ylabel("Y-axis")
+plt.title("A test graph")
+for i in range(len(y[0])):
+    plt.plot(x,[pt[i] for pt in y],label = 'id %s'%i)
+plt.legend()
 plt.show()
 
 
